@@ -6,15 +6,19 @@ Copy your w4118_sh file to this directory.
 
 Then run:
 
+```bash
 python tester.py
-
+```
 
 This testing script does not guarantee you will get a 100%
 on the homework 1. This script is intended to help you
 achieve a 100%.
 
 To run checkpatch:
+
+```bash
 cd checkpatch
 ./run_checkpatch.sh /path/to/your/homework/repo
+```
 
-Make sure there's no erros and warnings.
+Make sure there's no errors and warnings.
